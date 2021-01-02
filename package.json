@@ -1,0 +1,22 @@
+{
+  "name": "blb-ui",
+  "version": "1.0.0",
+  "description": "ui library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Some-Group/blb-ui.git"
+  },
+  "keywords": [
+    "ui"
+  ],
+  "author": "Boiao Ch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Some-Group/blb-ui/issues"
+  },
+  "homepage": "https://github.com/Some-Group/blb-ui#readme"
+}
